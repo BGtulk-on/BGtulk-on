@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Yovo, a full-stack developer and designer based in Bulgaria with over 4 years of experience. Currently a high school student, but proficient in HTML, CSS, JavaScript, Python, Java and SQL.
+<h2 align="left">Hi 👋! I'm Yovo, a full-stack developer and designer based in Bulgaria with over 5 years of experience. Currently a high school student, but proficient in HTML, CSS, JavaScript, Python, Java and SQL.
 When I'm not working or tinkering with code, I'm studying how to escape the Matrix. Actually for hire 😉.</h2>
 
 ###
