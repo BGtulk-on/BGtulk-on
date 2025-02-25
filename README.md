@@ -9,9 +9,6 @@ When I'm not working or tinkering with code, I'm studying how to escape the Matr
 
 ###
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bgtulk-on&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-###
 
 
 <a href="http://bgtulk.dev/" target="_blank">
