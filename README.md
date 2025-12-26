@@ -19,4 +19,4 @@ When I'm not working or tinkering with code, I'm studying how to escape the Matr
 
 </div>
 
-
+https://github-readme-stats.hackclub.dev/api/wakatime?username=24206&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=discord_old_blurple
