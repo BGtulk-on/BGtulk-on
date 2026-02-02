@@ -19,4 +19,4 @@ When I'm not working or tinkering with code, I'm studying how to escape the Matr
 
 </div>
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+[![Hackatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=24206&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
