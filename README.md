@@ -19,3 +19,4 @@ When I'm not working or tinkering with code, I'm studying how to escape the Matr
 
 </div>
 
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
