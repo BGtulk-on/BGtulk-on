@@ -19,3 +19,9 @@ When I'm not working or tinkering with code, I'm studying how to escape the Matr
 
 </div>
 
+<a href="https://heatmap.shymike.dev?id=BGtulk&timezone=Europe%2FSofia&cell_size=11&rounding=30&labels=true&year=current&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=BGtulk&timezone=Europe%2FSofia&cell_size=11&rounding=30&labels=true&year=current&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=BGtulk&timezone=Europe%2FSofia&cell_size=11&rounding=30&labels=true&year=current&theme=light">
+    </picture>
+</a>
