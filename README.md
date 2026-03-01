@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! I'm Yovo, a full-stack developer and designer based in Bulgaria with over 5 years of experience. Currently a high school student, but proficient in HTML, CSS, JavaScript, Python, Java and SQL.
-When I'm not working or tinkering with code, I'm studying how to escape the Matrix. Actually for hire 😉.</h2>
+<h2 align="left">
+I'm Yovo Mihov, a Full-Stack Developer and UI/UX Developer based in Bulgaria with over 2 years of professional experience. High school student proficient in web development. When I'm not working or tinkering with code, I'm studying how to escape the Matrix. Actually for hire 😋 .</h2>
 
 ###
 
